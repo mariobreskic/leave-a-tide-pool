@@ -1,4 +1,4 @@
-# leave-a-tide-pool
+# Leave a Tide Pool
 A LeechBlock block list for my “Leave a Tide Pool” challenge
 
 Here is a fun idea I had: avoid using a website, app, or service of your choice, from the following categories:
